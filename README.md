@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Pat.
+
+🌱 I’m currently learning Data Analysis with Python and SQL, as well as trying to get into Machine Learning.
+
+I'll be using GitHub to upload various projects I make during my studies as well as some personal projects.
 
 <!--
 **PatrickJFBurke/PatrickJFBurke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
